@@ -1,3 +1,5 @@
+2026
+
 ---
 title: "Web Content Accessibility Guidelines (WCAG) 2 Level AA Conformance"
 title_html: "Web Content Accessibility Guidelines (WCAG) 2<br>Level AA Conformance"
